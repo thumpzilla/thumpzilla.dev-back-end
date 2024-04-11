@@ -4,7 +4,9 @@
 
 - Website: https://thumpzilla.dev
 
-- Inspired by https://cloudresumechallenge.dev/docs/the-challenge/
+- Project front-end: https://github.com/thumpzilla/thumpzilla.dev-front-end
+
+- Inspired by: https://cloudresumechallenge.dev/docs/the-challenge/
 
 ## Description
 
